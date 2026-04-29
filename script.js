@@ -14,7 +14,7 @@
    Replace this URL with your actual n8n webhook.
    Everything else works out-of-the-box.
 ──────────────────────────────────────────────── */
-const WEBHOOK_URL = 'https://your-n8n-webhook-url.com/webhook/anish-tees-orders';
+const WEBHOOK_URL = 'https://anishdev.app.n8n.cloud/webhook-test/064b97e0-ecd2-402d-883e-624b897bddcc';
 
 /* ── PRODUCT DATA ────────────────────────────── */
 const PRODUCTS = [
